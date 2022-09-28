@@ -1,6 +1,6 @@
 # Dockerfile for building Marian image
 # Written by Abdullah Alrajeh, Sep 2022
-# Use: sudo docker build -t marian .
+# Use: docker build -t marian .
 
 FROM nvidia/cuda:10.2-devel-ubuntu18.04
 LABEL description="GPU-based Marian"
