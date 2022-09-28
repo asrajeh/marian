@@ -4,7 +4,7 @@ This is a quick guide for deploying Marian server with a translation model:
 
 First you need to build Marian docker image
 
- - create a new folder and copy Dockerfile (attached) inside it
+ - create a new folder and copy Dockerfile inside it
 
  - then build the image by running the following
 
